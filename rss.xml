@@ -4,16 +4,17 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Feb 2026 22:36:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Feb 2026 22:41:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
             <title><![CDATA[This is my first note in Joplin. ]]></title>
             <guid>fd8ef4e96bf2456f8b7d79ec0bdc0df6</guid>
             <pubDate>Tue, 17 Feb 2026 20:47:06 GMT</pubDate>
+            <content:encoded><![CDATA[This is some note content.  That should get published I hope.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[1. Welcome to Joplin!]]></title>
+            <title><![CDATA[Welcome to Joplin!]]></title>
             <guid>260907a663de47618944d9d1282d64ca</guid>
             <pubDate>Mon, 31 Mar 2025 19:07:51 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="welcome-to-joplin">Welcome to Joplin!</h1>
@@ -70,6 +71,7 @@
 <li>On <strong>mobile</strong>, open the note and press the "⋮" button and select "Tags".</li>
 <li>On <strong>terminal</strong>, type <code>:help tag</code> for the available commands.</li>
 </ul>
+<p>This should get published too.</p>
 ]]></content:encoded>
         </item>
     </channel>
